@@ -111,19 +111,3 @@ class Graph:
                 low[u] = min(low[u], disc[v])
 
         return False
-
-# تعريف الرسم البياني
-g = Graph(5)
-g.add_edge(0, 1)
-g.add_edge(1, 2)
-g.add_edge(2, 3)
-g.add_edge(3, 4)
-g.add_edge(4, 0)
-
-# استخدام خوارزمية Gabow للتحقق من خاصية الاتصال بقوة
-is_vertex_strongly_biconnected = g.is_vertex_strongly_biconnected()
-print("Is the graph vertex strongly biconnected?", is_vertex_strongly_biconnected)
-
-# حذف اتجاه الوصلات للتحقق من خاصية أن البيان غير الموجه خالي من العقد المفصلية
-is_undirected_graph_biconnected = g.is_undirected_graph_biconnected()
-print("Is the undirected graph biconnected?", is_undirected_graph_biconnected)
