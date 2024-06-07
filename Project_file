@@ -1,4 +1,4 @@
-// سالي احمد 
+//سالي احمد 
 class Graph:
     def init(self, vertices):
         self.V = vertices
