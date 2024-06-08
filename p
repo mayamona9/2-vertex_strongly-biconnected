@@ -1,6 +1,0 @@
-https://github.dev/mayamona9/2-vertex_strongly-biconnected/blob/706942a5cd9ad924a8fa78ddb1a765e4efbc9a3e/Project_file#L3
-
-
-https://github.com/mayamona9/2-vertex_strongly-biconnected/blob/706942a5cd9ad924a8fa78ddb1a765e4efbc9a3e/Project_file#L9
-
-https://github.com/mayamona9/2-vertex_strongly-biconnected/blob/main/Project_file#L16
